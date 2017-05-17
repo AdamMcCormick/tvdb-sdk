@@ -1,0 +1,26 @@
+{
+  "name": "tvdb-sdk",
+  "version": "0.0.1",
+  "description": "An attempt to wrap TVDB JSON API in a node module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdamMcCormick/tvdb-sdk.git"
+  },
+  "keywords": [
+    "tvdb"
+  ],
+  "author": "Adam McCormick",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AdamMcCormick/tvdb-sdk/issues"
+  },
+  "homepage": "https://github.com/AdamMcCormick/tvdb-sdk#readme",
+  "dependencies": {
+    "node-fetch": "^1.6.3",
+    "ramda": "^0.23.0"
+  }
+}
